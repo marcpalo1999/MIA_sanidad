@@ -1,0 +1,5 @@
+,age,age,chol,chol,trestbps,num
+,mean,std,mean,std,mean,<lambda>
+sexo_texto,,,,,,
+Hombre,53.8,8.8,239.6,42.6,130.9,54.4
+Mujer,55.7,9.4,261.8,64.9,133.3,24.7

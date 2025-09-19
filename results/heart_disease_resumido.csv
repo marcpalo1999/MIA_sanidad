@@ -1,0 +1,304 @@
+age,sexo_texto,chol,categoria_colesterol,tiene_enfermedad
+63,Hombre,233,Límite alto,No
+67,Hombre,286,Alto,Sí
+67,Hombre,229,Límite alto,Sí
+37,Hombre,250,Alto,No
+41,Mujer,204,Límite alto,No
+56,Hombre,236,Límite alto,No
+62,Mujer,268,Alto,Sí
+57,Mujer,354,Alto,No
+63,Hombre,254,Alto,Sí
+53,Hombre,203,Límite alto,Sí
+57,Hombre,192,Normal,No
+56,Mujer,294,Alto,No
+56,Hombre,256,Alto,Sí
+44,Hombre,263,Alto,No
+52,Hombre,199,Normal,No
+57,Hombre,168,Normal,No
+48,Hombre,229,Límite alto,Sí
+54,Hombre,239,Límite alto,No
+48,Mujer,275,Alto,No
+49,Hombre,266,Alto,No
+64,Hombre,211,Límite alto,No
+58,Mujer,283,Alto,No
+58,Hombre,284,Alto,Sí
+58,Hombre,224,Límite alto,Sí
+60,Hombre,206,Límite alto,No
+50,Mujer,219,Límite alto,No
+58,Mujer,340,Alto,No
+66,Mujer,226,Límite alto,No
+43,Hombre,247,Alto,No
+40,Hombre,167,Normal,Sí
+69,Mujer,239,Límite alto,No
+60,Hombre,230,Límite alto,Sí
+64,Hombre,335,Alto,Sí
+59,Hombre,234,Límite alto,No
+44,Hombre,233,Límite alto,No
+42,Hombre,226,Límite alto,No
+43,Hombre,177,Normal,Sí
+57,Hombre,276,Alto,Sí
+55,Hombre,353,Alto,Sí
+61,Hombre,243,Alto,No
+65,Mujer,225,Límite alto,Sí
+40,Hombre,199,Normal,No
+71,Mujer,302,Alto,No
+59,Hombre,212,Límite alto,No
+61,Mujer,330,Alto,Sí
+58,Hombre,230,Límite alto,Sí
+51,Hombre,175,Normal,No
+50,Hombre,243,Alto,Sí
+65,Mujer,417,Alto,No
+53,Hombre,197,Normal,No
+41,Mujer,198,Normal,No
+65,Hombre,177,Normal,No
+44,Hombre,290,Alto,Sí
+44,Hombre,219,Límite alto,No
+60,Hombre,253,Alto,Sí
+54,Hombre,266,Alto,Sí
+50,Hombre,233,Límite alto,Sí
+41,Hombre,172,Normal,Sí
+54,Hombre,273,Alto,No
+51,Hombre,213,Límite alto,No
+51,Mujer,305,Alto,Sí
+46,Mujer,177,Normal,No
+58,Hombre,216,Límite alto,Sí
+54,Mujer,304,Alto,No
+54,Hombre,188,Normal,Sí
+60,Hombre,282,Alto,Sí
+60,Hombre,185,Normal,Sí
+54,Hombre,232,Límite alto,No
+59,Hombre,326,Alto,Sí
+46,Hombre,231,Límite alto,Sí
+65,Mujer,269,Alto,No
+67,Hombre,254,Alto,Sí
+62,Hombre,267,Alto,Sí
+65,Hombre,248,Alto,Sí
+44,Hombre,197,Normal,Sí
+65,Mujer,360,Alto,No
+60,Hombre,258,Alto,Sí
+51,Mujer,308,Alto,No
+48,Hombre,245,Alto,No
+58,Hombre,270,Alto,Sí
+45,Hombre,208,Límite alto,No
+53,Mujer,264,Alto,No
+39,Hombre,321,Alto,No
+68,Hombre,274,Alto,No
+52,Hombre,325,Alto,No
+44,Hombre,235,Límite alto,No
+47,Hombre,257,Alto,No
+53,Mujer,216,Límite alto,No
+53,Mujer,234,Límite alto,No
+51,Mujer,256,Alto,No
+66,Hombre,302,Alto,No
+62,Mujer,164,Normal,Sí
+62,Hombre,231,Límite alto,No
+44,Mujer,141,Normal,No
+63,Mujer,252,Alto,No
+52,Hombre,255,Alto,Sí
+59,Hombre,239,Límite alto,Sí
+60,Mujer,258,Alto,Sí
+52,Hombre,201,Límite alto,No
+48,Hombre,222,Límite alto,No
+45,Hombre,260,Alto,No
+34,Hombre,182,Normal,No
+57,Mujer,303,Alto,No
+71,Mujer,265,Alto,No
+49,Hombre,188,Normal,Sí
+54,Hombre,309,Alto,No
+59,Hombre,177,Normal,Sí
+57,Hombre,229,Límite alto,Sí
+61,Hombre,260,Alto,Sí
+39,Hombre,219,Límite alto,Sí
+61,Mujer,307,Alto,Sí
+56,Hombre,249,Alto,Sí
+52,Hombre,186,Normal,No
+43,Mujer,341,Alto,Sí
+62,Mujer,263,Alto,Sí
+41,Hombre,203,Límite alto,No
+58,Hombre,211,Límite alto,No
+35,Mujer,183,Normal,No
+63,Hombre,330,Alto,Sí
+65,Hombre,254,Alto,Sí
+48,Hombre,256,Alto,Sí
+63,Mujer,407,Alto,No
+51,Hombre,222,Límite alto,No
+55,Hombre,217,Límite alto,Sí
+65,Hombre,282,Alto,Sí
+45,Mujer,234,Límite alto,No
+56,Mujer,288,Alto,Sí
+54,Hombre,239,Límite alto,Sí
+44,Hombre,220,Límite alto,No
+62,Mujer,209,Límite alto,No
+54,Hombre,258,Alto,No
+51,Hombre,227,Límite alto,No
+29,Hombre,204,Límite alto,No
+51,Hombre,261,Alto,No
+43,Mujer,213,Límite alto,No
+55,Mujer,250,Alto,No
+70,Hombre,174,Normal,Sí
+62,Hombre,281,Alto,Sí
+35,Hombre,198,Normal,Sí
+51,Hombre,245,Alto,No
+59,Hombre,221,Límite alto,No
+59,Hombre,288,Alto,Sí
+52,Hombre,205,Límite alto,No
+64,Hombre,309,Alto,Sí
+58,Hombre,240,Alto,No
+47,Hombre,243,Alto,Sí
+57,Hombre,289,Alto,Sí
+41,Hombre,250,Alto,No
+45,Hombre,308,Alto,No
+60,Mujer,318,Alto,No
+52,Hombre,298,Alto,No
+42,Mujer,265,Alto,No
+67,Mujer,564,Alto,No
+55,Hombre,289,Alto,Sí
+64,Hombre,246,Alto,Sí
+70,Hombre,322,Alto,Sí
+51,Hombre,299,Alto,Sí
+58,Hombre,300,Alto,Sí
+60,Hombre,293,Alto,Sí
+68,Hombre,277,Alto,No
+46,Hombre,197,Normal,No
+77,Hombre,304,Alto,Sí
+54,Mujer,214,Límite alto,No
+58,Mujer,248,Alto,No
+48,Hombre,255,Alto,No
+57,Hombre,207,Límite alto,No
+52,Hombre,223,Límite alto,No
+54,Mujer,288,Alto,No
+35,Hombre,282,Alto,Sí
+45,Mujer,160,Normal,No
+70,Hombre,269,Alto,Sí
+53,Hombre,226,Límite alto,No
+59,Mujer,249,Alto,Sí
+62,Mujer,394,Alto,No
+64,Hombre,212,Límite alto,Sí
+57,Hombre,274,Alto,Sí
+52,Hombre,233,Límite alto,No
+56,Hombre,184,Normal,Sí
+43,Hombre,315,Alto,No
+53,Hombre,246,Alto,No
+48,Hombre,274,Alto,Sí
+56,Mujer,409,Alto,Sí
+42,Hombre,244,Alto,No
+59,Hombre,270,Alto,No
+60,Mujer,305,Alto,Sí
+63,Mujer,195,Normal,No
+42,Hombre,240,Alto,No
+66,Hombre,246,Alto,Sí
+54,Hombre,283,Alto,Sí
+69,Hombre,254,Alto,Sí
+50,Hombre,196,Normal,No
+51,Hombre,298,Alto,Sí
+43,Hombre,247,Alto,Sí
+62,Mujer,294,Alto,Sí
+68,Mujer,211,Límite alto,No
+67,Hombre,299,Alto,Sí
+69,Hombre,234,Límite alto,No
+45,Mujer,236,Límite alto,No
+50,Mujer,244,Alto,No
+59,Hombre,273,Alto,Sí
+50,Mujer,254,Alto,No
+64,Mujer,325,Alto,No
+57,Hombre,126,Normal,No
+64,Mujer,313,Alto,No
+43,Hombre,211,Límite alto,No
+45,Hombre,309,Alto,Sí
+58,Hombre,259,Alto,Sí
+50,Hombre,200,Límite alto,Sí
+55,Hombre,262,Alto,No
+62,Mujer,244,Alto,Sí
+37,Mujer,215,Límite alto,No
+38,Hombre,231,Límite alto,Sí
+41,Hombre,214,Límite alto,No
+66,Mujer,228,Límite alto,Sí
+52,Hombre,230,Límite alto,Sí
+56,Hombre,193,Normal,No
+46,Mujer,204,Límite alto,No
+46,Mujer,243,Alto,No
+64,Mujer,303,Alto,No
+59,Hombre,271,Alto,No
+41,Mujer,268,Alto,No
+54,Mujer,267,Alto,No
+39,Mujer,199,Normal,No
+53,Hombre,282,Alto,Sí
+63,Mujer,269,Alto,Sí
+34,Mujer,210,Límite alto,No
+47,Hombre,204,Límite alto,No
+67,Mujer,277,Alto,No
+54,Hombre,206,Límite alto,Sí
+66,Hombre,212,Límite alto,Sí
+52,Mujer,196,Normal,No
+55,Mujer,327,Alto,Sí
+49,Hombre,149,Normal,Sí
+74,Mujer,269,Alto,No
+54,Mujer,201,Límite alto,No
+54,Hombre,286,Alto,Sí
+56,Hombre,283,Alto,Sí
+46,Hombre,249,Alto,Sí
+49,Mujer,271,Alto,No
+42,Hombre,295,Alto,No
+41,Hombre,235,Límite alto,No
+41,Mujer,306,Alto,No
+49,Mujer,269,Alto,No
+61,Hombre,234,Límite alto,Sí
+60,Mujer,178,Normal,No
+67,Hombre,237,Límite alto,Sí
+58,Hombre,234,Límite alto,Sí
+47,Hombre,275,Alto,Sí
+52,Hombre,212,Límite alto,Sí
+62,Hombre,208,Límite alto,No
+57,Hombre,201,Límite alto,No
+58,Hombre,218,Límite alto,Sí
+64,Hombre,263,Alto,No
+51,Mujer,295,Alto,No
+43,Hombre,303,Alto,No
+42,Mujer,209,Límite alto,No
+67,Mujer,223,Límite alto,No
+76,Mujer,197,Normal,No
+70,Hombre,245,Alto,No
+57,Hombre,261,Alto,Sí
+44,Mujer,242,Alto,No
+58,Mujer,319,Alto,Sí
+60,Mujer,240,Alto,No
+44,Hombre,226,Límite alto,No
+61,Hombre,166,Normal,Sí
+42,Hombre,315,Alto,Sí
+52,Hombre,204,Límite alto,Sí
+59,Hombre,218,Límite alto,Sí
+40,Hombre,223,Límite alto,Sí
+42,Hombre,180,Normal,No
+61,Hombre,207,Límite alto,Sí
+66,Hombre,228,Límite alto,No
+46,Hombre,311,Alto,Sí
+71,Mujer,149,Normal,No
+59,Hombre,204,Límite alto,Sí
+64,Hombre,227,Límite alto,No
+66,Mujer,278,Alto,No
+39,Mujer,220,Límite alto,No
+57,Hombre,232,Límite alto,Sí
+58,Mujer,197,Normal,No
+57,Hombre,335,Alto,Sí
+47,Hombre,253,Alto,No
+55,Mujer,205,Límite alto,Sí
+35,Hombre,192,Normal,No
+61,Hombre,203,Límite alto,Sí
+58,Hombre,318,Alto,Sí
+58,Mujer,225,Límite alto,Sí
+58,Hombre,220,Límite alto,No
+56,Hombre,221,Límite alto,No
+56,Hombre,240,Alto,No
+67,Hombre,212,Límite alto,Sí
+55,Mujer,342,Alto,No
+44,Hombre,169,Normal,Sí
+63,Hombre,187,Normal,Sí
+63,Mujer,197,Normal,Sí
+41,Hombre,157,Normal,No
+59,Hombre,176,Normal,Sí
+57,Mujer,241,Alto,Sí
+45,Hombre,264,Alto,Sí
+68,Hombre,193,Normal,Sí
+57,Hombre,131,Normal,Sí
+57,Mujer,236,Límite alto,Sí
+38,Hombre,175,Normal,No
